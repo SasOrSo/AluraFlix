@@ -1,0 +1,49 @@
+.boton {
+    text-transform: uppercase;
+    margin-right: 30px;
+    border: solid 2px #FFFFFF;
+    width: 180px;
+    height: 54px;
+    border-radius: 15px;
+    color: white;
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    background: rgba(0, 0, 0, 0.5);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: box-shadow 0.3s, border 0.3s;
+  }
+  
+  .boton:hover {
+    border: solid 2px #2271D1;
+    box-shadow: 0px 0px 12px 4px #2271D1;
+  }
+  
+  .boton-solo-icono {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    margin: 0;
+    border: none;
+    background: none; 
+    position: absolute;
+    top: 50px; 
+    right: 50px; 
+    z-index: 1001;
+    cursor: pointer; 
+  }
+  
+  .boton-solo-icono:hover {
+    border: none; 
+    box-shadow: none; 
+  }
+  
+  .boton-solo-icono svg {
+    width: 43px;
+    height: 43px;
+    fill: currentColor; 
+  }
+
+  

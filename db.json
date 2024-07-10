@@ -1,0 +1,60 @@
+{
+  "videos": [
+    {
+      "titulo": "¿Cuál es la diferencia entre Front End y Back End?",
+      "imagen": "https://img.youtube.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/R9uaBxgCkyA",
+      "descripcion": "Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web.",
+      "categoria": "Frontend",
+      "id": "1"
+    },
+    {
+      "titulo": "¿Por qué utilizar React?",
+      "imagen": "https://img.youtube.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/MnBNPA45NW8",
+      "descripcion": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React.",
+      "categoria": "Frontend",
+      "id": "2"
+    },
+    {
+      "titulo": "¿Qué es JavaScript?",
+      "imagen": "https://img.youtube.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/GJfOSoaXk4s",
+      "descripcion": "¿Qué es JavaScript?",
+      "categoria": "Frontend",
+      "id": "3"
+    },
+    {
+      "titulo": "De Front End a Back End con Java",
+      "imagen": "https://img.youtube.com/vi/3aK3Omo2RrU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embeded/3aK3Omo2RrU",
+      "descripcion": "De Front End a Back End con Java",
+      "categoria": "Backend",
+      "id": "4"
+    },
+    {
+      "titulo": "¿Por qué utilizar Java actualmente?",
+      "imagen": "https://img.youtube.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embeded/3kNuK-XAHEY",
+      "descripcion": "¿Por qué utilizar Java actualmente?",
+      "categoria": "Backend",
+      "id": "5"
+    },
+    {
+      "titulo": "Webserie IA: Utiliza ChatGPT para practicar inglés",
+      "imagen": "https://img.youtube.com/vi/Yz-6uHdwBPE/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/Yz-6uHdwBPE",
+      "descripcion": "Webserie IA: Utiliza ChatGPT para practicar inglés",
+      "categoria": "Innovación y Gestión",
+      "id": "6"
+    },
+    {
+      "titulo": "Consejos para crear tu Portfolio",
+      "imagen": "https://img.youtube.com/vi/lKaXteKYbSA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embeded/lKaXteKYbSA",
+      "descripcion": "Consejos para crear tu Portfolio",
+      "categoria": "Innovación y Gestión",
+      "id": "7"
+    }
+  ]
+}
